@@ -1,1 +1,0 @@
-This is a repository that consists of some python projects I have worked on
